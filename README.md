@@ -1,4 +1,4 @@
-Ortex Trading Test
+Sample Trading strategy using outputs from seperate trading signals
 
 Pcode: code details for backtesting engine
     - engine.py contains the core class and ortex backtesting engine
